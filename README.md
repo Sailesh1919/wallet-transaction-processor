@@ -3,7 +3,7 @@
 A simple Java Spring Boot project that processes wallet debit transactions safely,
 handling concurrent requests and duplicate submissions correctly.
 
-Built as a Java Backend Intern assignment.
+Built as a Java Backend .
 
 ---
 
