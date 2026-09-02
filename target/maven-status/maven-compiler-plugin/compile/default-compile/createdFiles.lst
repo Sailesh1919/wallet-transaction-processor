@@ -1,0 +1,14 @@
+com\example\wallet\exception\DuplicateTransactionException.class
+com\example\wallet\repository\TransactionRepository.class
+com\example\wallet\dto\TransactionResponse.class
+com\example\wallet\exception\GlobalExceptionHandler.class
+com\example\wallet\dto\TransactionRequest.class
+com\example\wallet\exception\InsufficientFundsException.class
+com\example\wallet\service\TransactionService.class
+com\example\wallet\WalletTransactionProcessorApplication.class
+com\example\wallet\controller\TransactionController.class
+com\example\wallet\entity\Wallet.class
+com\example\wallet\exception\WalletNotFoundException.class
+com\example\wallet\repository\WalletRepository.class
+com\example\wallet\entity\TransactionType.class
+com\example\wallet\entity\Transaction.class
